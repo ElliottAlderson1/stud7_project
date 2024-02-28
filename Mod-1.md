@@ -1,0 +1,2 @@
+- [Linux Terminal](#Linux-Lab-01-Getting-started-with-the-Linux-terminal)
+- [Manipulating files](Linux-2-Manipulating-files/directories)
