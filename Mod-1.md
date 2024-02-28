@@ -2,3 +2,4 @@
 - [Manipulating files](Linux-2-Manipulating-files/directories)
 - [Linux Networking](Linux-5-Networking)
 - [Creating VM's in ESXi](VM-creation)
+- [Linux Search, Extract and Archive Data](Linux-Lab-04-Search,-Extract-and-Archive-Data)
