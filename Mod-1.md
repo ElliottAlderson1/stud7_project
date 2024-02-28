@@ -4,3 +4,4 @@
 - [Creating VM's in ESXi](VM-creation)
 - [Linux Search, Extract and Archive Data](Linux-Lab-04-Search,-Extract-and-Archive-Data)
 - [Linux Package Management](Linux-Lab-06-Package-Management)
+- [Linux User Accounts and Groups](Linux-Lab-07-Introduction-to-User-Accounts-and-Groups)
