@@ -5,3 +5,4 @@
 - [Linux Search, Extract and Archive Data](Linux-Lab-04-Search,-Extract-and-Archive-Data)
 - [Linux Package Management](Linux-Lab-06-Package-Management)
 - [Linux User Accounts and Groups](Linux-Lab-07-Introduction-to-User-Accounts-and-Groups)
+- [Linux Managing File Ownership and Permissions](Linux-Lab-08-Managing-File-Ownership-and-Permissions)
