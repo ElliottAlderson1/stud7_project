@@ -1,5 +1,4 @@
 - [Mod 1](Mod 1)
-              ```Issues
 - [Mod 2](Mod 2)
 - [Mod 3](Mod 3)
 - [Mod 4](Mod 4)
