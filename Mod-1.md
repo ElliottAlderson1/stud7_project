@@ -1,4 +1,4 @@
-- [Linux Terminal](#Linux-Lab-01-Getting-started-with-the-Linux-terminal)
+- [Linux Terminal](Linux-1-Linux-terminal-intro)
 - [Manipulating files](Linux-2-Manipulating-files/directories)
 - [Linux Networking](Linux-5-Networking)
 - [Creating VM's in ESXi](VM-creation)
