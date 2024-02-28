@@ -1,3 +1,4 @@
+- [Issues](Issues)
 - [Linux Terminal](Linux-1-Linux-terminal-intro)
 - [Manipulating files](Linux-2-Manipulating-files/directories)
 - [Linux Networking](Linux-5-Networking)
