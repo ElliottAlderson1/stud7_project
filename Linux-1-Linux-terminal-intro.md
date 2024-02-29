@@ -2,7 +2,7 @@
 
 ## Basic skillz
 
-* [Accessing your student VM from the Command prompt using SSH](#task-1-accessing-your-student-vm-from-the-command-prompt-using-ssh)
+* [Accessing VM over SSH](#1-Accessing VM over SSH)
 * [Creating Directories and files in the Linux shell](#task-2-creating-directories-and-files-in-the-linux-shell)
 * [Manipulate text using the ](#task-3-manipulating-text-using-the-echo-cat-and-redirection-commands)`echo`, `cat`, and redirection commands
 * [Handling special characters with quotations and escape characters](#task-4-handling-special-characters-with-quotations-and-escape-characters)
