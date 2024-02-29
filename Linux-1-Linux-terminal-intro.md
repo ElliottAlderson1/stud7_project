@@ -1,6 +1,6 @@
 # Linux terminal - Grasshopper
 
-## In this lab you will cover
+## Basic skillz
 
 * [Accessing your student VM from the Command prompt using SSH](#task-1-accessing-your-student-vm-from-the-command-prompt-using-ssh)
 * [Creating Directories and files in the Linux shell](#task-2-creating-directories-and-files-in-the-linux-shell)
