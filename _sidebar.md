@@ -13,6 +13,7 @@
      <ul>[NANO Text Editor](Configuring Nano Text Editor with nanorc)</ul>
      <ul>[Neovim](Neovim)</ul>
 
+  
   - <details><summary>[GitLab](GitLab)</summary>
 
 
