@@ -1,3 +1,8 @@
+- [Home Page](Home)
+
+# How to Pages
+
+- [Linux Notes](Linux Notes)
 - [Issues](Issues)
 - [Linux Terminal](Linux-1-Linux-terminal-intro)
 - [Manipulating files](Linux-2-Manipulating-files/directories)
