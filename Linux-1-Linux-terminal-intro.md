@@ -1,4 +1,4 @@
-# Lab 01 Getting started with the Linux terminal
+# Linux terminal - Grasshopper
 
 ## In this lab you will cover
 
