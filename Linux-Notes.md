@@ -8,3 +8,5 @@
 - [Linux Package Management](Linux-Lab-06-Package-Management)
 - [Linux User Accounts and Groups](Linux-Lab-07-Introduction-to-User-Accounts-and-Groups)
 - [Linux Managing File Ownership and Permissions](Linux-Lab-08-Managing-File-Ownership-and-Permissions)
+- [NANO Text Editor](Configuring Nano Text Editor with nanorc)
+- [Neovim](Neovim)
