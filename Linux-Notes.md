@@ -1,4 +1,4 @@
-# **This page is for Linux How To's**  - [Home Page](Home)
+# **This page is for Linux How To's**  - [(Home Page)](Home) [(Module 1)](Module 1 Wiki Page)
 
 - [Linux Terminal](Linux-1-Linux-terminal-intro)
 - [Manipulating files](Linux-2-Manipulating-files/directories)
