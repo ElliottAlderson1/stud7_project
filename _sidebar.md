@@ -16,6 +16,8 @@
   
   - <details><summary>[GitLab](GitLab)</summary>
 
+  - <details><summary>[Git](Git Notes)</summary>
+
 
 - [Module 2 Wiki Page](Module 2 Wiki Page)
 
